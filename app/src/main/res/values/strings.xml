@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="dialog_grid_size">Custom grid size</string>
+
+    <string name="activity_main_player_pseudo">Pseudo</string>
+    <string name="activity_main_play">Play</string>
+    <string name="activity_main_dialog_grid_size">Y x Y</string>
+    <string name="activity_main_add_player">Add player</string>
+    <string name="activity_main_remove_player">Remove</string>
+    <string name="activity_main_player_pseudo_empty">One username is empty</string>
+    <string name="activity_main_player_pseudo_same">Usernames must not be equal</string>
+
+    <string name="activity_play_selected">This cell is already selected</string>
+    <string name="activity_game_waiting">Waiting for X to play</string>
+
+    <string name="activity_score_endgame">Game ended</string>
+    <string name="activity_score_kind_victory">Victory of X on Y</string>
+    <string name="activity_score_kind_equality">Equality of X on Y</string>
+    <string name="activity_score">Scores</string>
+    <string name="activity_score_play">Restart</string>
+
+
+</resources>
